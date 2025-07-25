@@ -1,0 +1,4 @@
+*.uasset linguist-language=UnrealScript
+*.umap linguist-language=UnrealScript
+*.uproject linguist-language=JSON
+Content/** linguist-language=UnrealScript
