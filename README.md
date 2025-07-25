@@ -12,7 +12,6 @@ Mecânica de destruição de objetos
 
 🛠️ Tecnologias Utilizadas
 
-Engine: Unreal Engine 5.4+
+Engine: Unreal Engine 5.6
 Linguagem: Blueprints (Visual Scripting)
-Controle de Versão: Git & GitHub
 Platform Target: Desktop (Windows)
