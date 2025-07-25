@@ -1,0 +1,77 @@
+# Unreal Engine .gitignore
+# Este arquivo reduz seu projeto de ~1GB para ~10-30MB
+
+# ========================================
+# PASTAS PESADAS - NÃO FAZER UPLOAD
+# ========================================
+
+# Binários compilados
+Binaries/
+Intermediate/
+Saved/
+
+# Cache do engine
+DerivedDataCache/
+
+# Builds e packages
+Build/
+Dist/
+
+# ========================================
+# ASSETS PESADOS (OPCIONAL)
+# ========================================
+
+# Starter Content (muito pesado)
+Content/StarterContent/
+
+# Third Person Template (se não usar)
+# Content/ThirdPersonBP/
+
+# Landscape/Terrain assets
+# Content/Landscape/
+
+# ========================================
+# ARQUIVOS TEMPORÁRIOS
+# ========================================
+
+# Visual Studio
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs/
+
+# Logs
+*.log
+*.tmp
+
+# Crash reports
+crashinfo-*
+
+# Local settings
+*.ini.bak
+
+# ========================================
+# SISTEMA OPERACIONAL
+# ========================================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Linux
+*~
+
+# ========================================
+# MANTER APENAS:
+# - Content/Blueprints/
+# - Content/Maps/
+# - Config/
+# - Source/ (se tiver C++)
+# - .uproject
+# ========================================
