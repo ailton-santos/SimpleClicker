@@ -1,0 +1,5 @@
+# ========================================
+*.uproject linguist-language=UnrealScript
+*.uasset linguist-language=UnrealScript
+*.umap linguist-language=UnrealScript
+# ========================================
