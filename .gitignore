@@ -1,5 +1,10 @@
 # Unreal Engine .gitignore
-# Este arquivo reduz seu projeto de ~1GB para ~10-30MB
+
+# ========================================
+*.uproject linguist-language=UnrealScript
+*.uasset linguist-language=UnrealScript
+*.umap linguist-language=UnrealScript
+# ========================================
 
 # ========================================
 # PASTAS PESADAS - NÃO FAZER UPLOAD
