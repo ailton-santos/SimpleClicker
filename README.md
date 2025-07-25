@@ -1,8 +1,4 @@
-# SimpleClicker
-Sistema de clicker simples usando Blueprints com Unreal Engine 5.6
-
-
-📋 Sobre o Projeto
+📋 Sobre o Projeto Simple Clicker
 SimpleClicker é um jogo básico de clicker desenvolvido como projeto de aprendizado em Unreal Engine 5. O objetivo principal foi entender os fundamentos de desenvolvimento de jogos usando o sistema de programação visual Blueprints.
 🎯 Objetivo do Jogo
 
