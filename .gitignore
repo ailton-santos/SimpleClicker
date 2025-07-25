@@ -1,12 +1,6 @@
 # Unreal Engine .gitignore
 
 # ========================================
-*.uproject linguist-language=UnrealScript
-*.uasset linguist-language=UnrealScript
-*.umap linguist-language=UnrealScript
-# ========================================
-
-# ========================================
 # PASTAS PESADAS - DON'T UPLOADED
 # ========================================
 
