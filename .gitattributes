@@ -1,4 +1,5 @@
-*.uasset linguist-language=UnrealScript
-*.umap linguist-language=UnrealScript
+*.uasset linguist-language=Visual-Basic
+*.umap linguist-language=Visual-Basic
 *.uproject linguist-language=JSON
-Content/** linguist-language=UnrealScript
+Content/** linguist-language=Visual-Basic
+Config/** linguist-language=INI
