@@ -1,8 +1,7 @@
 # Unreal Engine .gitignore
-# Este arquivo reduz seu projeto de ~1GB para ~10-30MB
 
 # ========================================
-# PASTAS PESADAS - NÃO FAZER UPLOAD
+# PASTAS PESADAS - DON'T UPLOADED
 # ========================================
 
 # Binários compilados
