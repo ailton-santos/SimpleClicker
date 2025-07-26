@@ -12,7 +12,7 @@ SimpleClicker is a basic clicker game developed as a learning project in Unreal 
 **Current Status**: ✅ **FULLY FUNCTIONAL** - Players can interact with glass cubes that have fire effects on top and destroy them by pressing the spacebar.
 
 <p align="center">
-<a <img align="center" src="https://github.com/ailton-santos/SimpleClicker/blob/main/Project_Screenshot.png" alt="Screen" height="400" width="200" /></a>
+<img src="https://github.com/ailton-santos/SimpleClicker/blob/main/Project_Screenshot.png" alt="SimpleClicker Game Screenshot" width="600"/>
 </p>
 
 
