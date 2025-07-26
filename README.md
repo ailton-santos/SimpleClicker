@@ -1,4 +1,4 @@
-# SimpleClicker
+# Simple Clicker
 
 **Game Developed in Unreal Engine 5.6 using Blueprints Visual Scripting**
 
