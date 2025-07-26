@@ -7,7 +7,7 @@
 
 ## 📋 Project Overview
 
-SimpleClicker is a basic clicker game developed as a learning project in Unreal Engine 5. The main objective was to understand the fundamentals of game development using the Blueprints visual scripting system without writing any C++ code.
+Simple Clicker is a basic clicker game developed as a learning project in Unreal Engine 5. The main objective was to understand the fundamentals of game development using the Blueprints visual scripting system without writing any C++ code.
 
 **Current Status**: ✅ **FULLY FUNCTIONAL** -> Players can interact with glass cubes that have fire effects on top and destroy them by pressing the spacebar.
 
@@ -88,14 +88,6 @@ SimpleClicker is a basic clicker game developed as a learning project in Unreal 
 - [Blueprint Visual Scripting Guide](https://docs.unrealengine.com/5.0/en-US/blueprints-visual-scripting-in-unreal-engine/)
 - [Game Framework Documentation](https://docs.unrealengine.com/5.0/en-US/game-framework-classes-in-unreal-engine/)
 
-### Community Resources
-- [Unreal Engine YouTube Channel](https://www.youtube.com/UnrealEngine)
-- [Epic Games Developer Community](https://dev.epicgames.com/community/)
-- [Unreal Engine AnswerHub](https://answers.unrealengine.com/)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙋‍♂️ Author
 
